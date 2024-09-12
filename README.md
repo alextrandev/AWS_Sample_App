@@ -1,5 +1,7 @@
 # AWSSampleApp
 
+A simple AWS CI/CD practice
+
 # aws_code_deploy
 ## Steps for AWS Sample App
  1.  **Create IAM Roles - CodeDeploy & EC2CodeDeploy**
